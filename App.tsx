@@ -642,8 +642,7 @@ const App: React.FC = () => {
               className={`text-lg ${theme === "dark" ? "text-slate-400" : "text-slate-700"
                 }`}
             >
-              Hear from the businesses I've helped transform their data into
-              insights
+              Hear from businesses I’ve helped bring their vision to life on the web.
             </p>
           </div>
           <TestimonialsCarousel testimonials={TESTIMONIALS} />
