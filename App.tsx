@@ -141,7 +141,7 @@ const App: React.FC = () => {
                   className="h-11 w-auto"
                 />
                 <span className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-indigo-400 to-cyan-400">
-                  {MY_NAME.split(" ")[0]} Analytics
+                  {/* {MY_NAME.split(" ")[0]} Dev */}
                 </span>
               </div>
             </div>
